@@ -64,7 +64,7 @@ export function ContactSection() {
           />
           <ContactLink
             label="GitHub"
-            href="https://github.com/zhouziwen18-glitch"
+            href="https://github.com/FoodAIseeker"
             helper={t('contact.github.helper')}
           />
           <div className="mt-1 flex items-center gap-3 rounded-2xl border border-paper-line bg-white/[0.04] p-3 shadow-sm">

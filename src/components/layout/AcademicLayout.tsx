@@ -250,7 +250,7 @@ export function AcademicLayout({ children }: AcademicLayoutProps) {
                   </li>
                   <li>
                     <a
-                      href="https://github.com/zhouziwen18-glitch"
+                      href="https://github.com/FoodAIseeker"
                       target="_blank"
                       rel="noreferrer"
                       className="text-ink-mute transition hover:text-accent"
